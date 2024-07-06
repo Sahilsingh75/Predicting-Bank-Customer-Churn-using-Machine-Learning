@@ -51,9 +51,7 @@ kaggle_hackathon/
 
 3. Running the Project
   Process the data:
-  
   ```bash
-  Copy code
   python scripts/preprocess.py
 
   Train the models:
